@@ -1,5 +1,5 @@
 👋 Hi, I'm Neil Ratna Varshney
-🎓 Branch: Computer science engineering (AI & ML) 📚 Year: 1st year
+🎓 Branch: Computer science engineering (Cyber Security and Digital Forensics) 📚 Year: 1st year
 
 🌟 About Me
 I am a passionate student who is eager to learn new technologies and improve my skills in the field of computer science and digital tools. I enjoy exploring different platforms and gaining practical knowledge through hands-on experience.
